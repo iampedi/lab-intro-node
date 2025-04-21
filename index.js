@@ -3,7 +3,6 @@ class SortedList {
     this.items = [];
     this.length = 0;
   }
-
   
   add(item) {
     this.items.push(item);
